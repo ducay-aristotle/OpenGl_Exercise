@@ -2,7 +2,7 @@
 This project is meant to be worked on as I get more experienced with OpenGl and C++.
 
 ## Project Description(Detailed)
-The means for working on this project is to have a personal in progress project so that I may have a baseline for working with OpenGL. I only have the window but I plan to add more features in the future.
+The means for working on this project is to have a personal in progress project so that I may have a baseline for working with OpenGL and C++. I only have the window but I plan to add more features in the future.
 
 
 
